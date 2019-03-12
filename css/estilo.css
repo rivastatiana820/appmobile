@@ -1,0 +1,46 @@
+
+
+.centrar{
+	text-align: center;
+}
+
+.contenido{
+	background: rgb(255,255,255,0.4);
+	padding:2em;
+}
+
+img{
+	width:100%;
+}
+
+
+
+.menu{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	width: 60%;
+
+}
+
+.menu li a{
+	color:#fff;
+	font-size:1.6em;
+	text-transform: capitalize;
+}
+div.imagen{
+	text-align: center;
+	display: inline;
+}
+.imagen{
+	width:50%;	
+}
+
+video{
+	width: 100%;
+
+}
+h2{
+	color:#9EFAE9;
+}
